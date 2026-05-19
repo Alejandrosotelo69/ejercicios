@@ -1,0 +1,13 @@
+using System;
+
+class ejercicio3
+{
+    static void Main(string[] args)
+    {
+        int x = 100 + 50;
+        Console.WriteLine(x);
+        
+        double y =3.5+4.75;
+        Console.WriteLine(y);
+    }
+}
